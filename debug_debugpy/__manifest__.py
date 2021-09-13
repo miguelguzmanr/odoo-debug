@@ -8,6 +8,7 @@
     "website": "https://github.com/miguelguzmanr/odoo-debug",
     "license": "LGPL-3",
     "depends": [
+        "base_setup",
     ],
     "data": [
     ],
