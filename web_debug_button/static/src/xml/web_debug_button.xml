@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<templates id="web_debug_button_template" xml:space="preserve">
+    <t t-name="web_debug_button">
+        <li class="o_mail_systray_item">
+            <a t-if="!widget.isDebug" title="Activate the developer mode" href="?debug=1">
+                <i class="fa fa-bug" role="img" aria-label="Activate the developer mode"/>
+                <span class="o_notification_counter badge badge-pill">
+                    Off
+                </span>
+            </a>
+        </li>
+    </t>
+</templates>
