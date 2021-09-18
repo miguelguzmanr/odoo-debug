@@ -4,6 +4,7 @@
     "version": "14.0.1.0",
     "category": "Tools",
     "author": "Miguel A. Guzmán Rodríguez",
+    "website": "https://github.com/miguelguzmanr/odoo-debug",
     "license": "LGPL-3",
     "depends": [
         "web",
